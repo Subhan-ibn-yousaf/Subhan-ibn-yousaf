@@ -1,11 +1,4 @@
-<!--
-  GitHub Profile README
-  Author: Muhammad Subhan
-  Username: Subhan-ibn-yousaf
-
-  Replace placeholder social links and project URLs with your actual links.
--->
-
+<!-- Profile links -->
 <div align="center">
 
 # Hi there, I'm Muhammad Subhan 👋
@@ -14,16 +7,14 @@
 
 Building responsive, scalable, and user-focused web applications.
 
-I specialize in modern frontend development, reusable UI components, API integration, and data-driven dashboards. I'm also expanding my expertise in React Native and cross-platform mobile development.
-
 <p>
   <a href="https://github.com/Subhan-ibn-yousaf">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.subhanyousaf.com/">
+  <a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-subhan-44895b430/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -34,144 +25,94 @@ I specialize in modern frontend development, reusable UI components, API integra
 
 ---
 
-## 👨‍💻 About Me
-
-- 💼 Frontend Developer with 1+ year of professional experience.
-- ⚛️ Specialized in React.js, Next.js, TypeScript, and modern frontend architecture.
-- 🎨 Experienced in building responsive dashboards, reusable components, and data-driven interfaces.
-- 🔌 Working with REST APIs, Axios, TanStack Query, authentication, CRUD workflows, and permission-based interfaces.
-- 🌐 Building multilingual applications with localization and Arabic RTL support.
-- 📱 Learning and developing cross-platform mobile applications using React Native and Expo.
-- 🧩 Focused on maintainable code, UI consistency, performance, accessibility, and production-ready practices.
-- 🚀 Interested in challenging frontend projects, collaborative teams, and opportunities to build meaningful digital products.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend technologies"/>
-</p>
-
-### UI & Styling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,figma" alt="UI and styling technologies"/>
-</p>
-
-**Also working with:** shadcn/ui, Framer Motion, responsive design, CSS Grid, Flexbox, and reusable component systems.
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile development"/>
-</p>
-
-**Also learning:** React Navigation, AsyncStorage, native packages, animations, mobile API integration, and production app architecture.
-
-### APIs, State & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" alt="API development tools"/>
-</p>
-
-- REST API integration
-- Axios
-- TanStack Query (React Query)
-- Server-state management and query invalidation
-- Authentication and role-based access
-- CRUD operations, filtering, sorting, and pagination
-- Forms and validation
-- API error handling and loading states
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,netlify,vercel" alt="Development tools"/>
-</p>
-
-**Workflow:** Git, GitHub, pull requests, debugging, code reviews, environment configuration, and deployment.
-
----
-
 ## 🚀 Featured Projects
 
-My work focuses on practical applications, dashboard systems, reusable interfaces, and responsive digital experiences.
+### 🏢 Daarna — HOA & Community Management Platform
 
-### 🏢 HOA-Cleara / Daarna Dashboard
+A residential community management platform supporting property management, service providers, administrative workflows, and community operations.
 
-**Enterprise Dashboard Development**
-
-Contributing to a multi-module dashboard ecosystem with role-based workflows and multilingual interfaces.
-
-- Dashboard UI development and design-system integration.
-- Reusable components and consistent UI patterns.
-- Community and property management interfaces.
+- Community and property management dashboards.
 - Complaint and contract management workflows.
 - Voting, facilities, and administrative modules.
-- REST API integration and query invalidation.
-- Authentication, permissions, localization, and Arabic RTL.
-- QA issue investigation, debugging, and production fixes.
+- REST API integration and server-state management.
+- Role-based access and permissions.
+- Multilingual interfaces with Arabic RTL support.
 
-**Technologies:** React.js, Next.js, TypeScript, Material UI, TanStack Query, REST APIs.
+**Tech Stack:** React.js, Next.js, TypeScript, Material UI, TanStack Query, REST APIs.
 
-### 📱 Daarna Business Mobile App
+- 🌐 [Official Website](https://daarna.sa/en/home)
+- 💻 [Dashboard Portal](https://portal.daarna.sa/en/login)
 
-**Cross-Platform Mobile Development**
+### 🏢 Cleara — Property Care & Management
 
-Working on a business-oriented mobile application using React Native and Expo.
+A property care platform connecting property owners with service providers for hospitality, rentals, and common-area management.
 
-- Expo-based development workflow.
-- Mobile application configuration and environment setup.
-- Cross-platform development and package compatibility.
-- Development, preview, and production build workflows.
-- Exploring OTA updates and production deployment.
+- Dashboard interface development.
+- Reusable UI components.
+- API-driven workflows.
+- Responsive layouts and application improvements.
 
-**Technologies:** React Native, Expo, TypeScript, EAS.
+**Tech Stack:** React.js, Next.js, TypeScript, Material UI, REST APIs.
 
-### 🌐 Zevron-One
+- 🌐 [Official Website](https://clearafm.com/en)
 
-**Company Website & Digital Product Platform**
+### 📱 Daarna Business — Mobile Application
 
-A modern company website focused on presenting digital services and product development capabilities.
+A business-focused mobile application associated with the Daarna ecosystem.
 
-- Responsive layouts and reusable UI components.
-- Modern frontend architecture.
-- Consistent branding and visual hierarchy.
-- Performance-conscious page development.
+- Expo-based React Native development.
+- Mobile configuration and package compatibility.
+- Cross-platform development workflows.
+- EAS build and update workflows.
+
+**Tech Stack:** React Native, Expo, TypeScript, EAS.
+
+- 🌐 [Daarna Official Website](https://daarna.sa/en/home)
+- 📱 [Daarna Platform](https://daarna.app/en/home)
+
+*The links above lead to the official platform, not a separately verified mobile-app demo.*
+
+### 🌐 Zevron-One — Company Website
+
+A modern company website focused on digital products, web development, mobile applications, and technology services.
+
+- Responsive website development.
+- Reusable components and consistent styling.
+- Modern Next.js architecture.
 - Deployment and website configuration.
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS.
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS.
 
-### 🏋️ Valence Athletic Club
+- 🔗 [View My Portfolio](https://subhan-ibn-yousaf-protfolio.netlify.app/)
 
-**Athletic Performance & Membership Platform**
+*Add a dedicated Zevron-One live URL here once its public deployment address is confirmed.*
 
-A modern athletic club platform concept focused on performance tracking, training programs, and membership experiences.
+### 🏋️ Valence Athletic Club — Athletic Performance Platform
 
-- Training program interfaces and weekly training cycles.
-- Membership tiers and pricing presentation.
-- Athletic performance dashboard components.
-- Responsive layouts and interactive UI.
-- Reusable components and structured application architecture.
+A modern athletic club platform concept featuring training programs, membership plans, and performance-oriented interfaces.
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Lucide.
+- Weekly training-cycle interfaces.
+- Membership tiers and pricing.
+- Responsive layouts and interactive components.
+- Reusable frontend architecture.
 
-### 💼 Additional Dashboard Experience
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Lucide.
 
-Other projects and development work have included:
+- 🔗 [Explore My Portfolio](https://subhan-ibn-yousaf-protfolio.netlify.app/)
+
+*Replace this portfolio link with the project's direct demo URL if it is publicly deployed.*
+
+### 💼 Additional Project Experience
+
+My broader frontend experience includes dashboard and application development for projects such as:
 
 - PROPNet
 - IMS Dashboard
 - Raysn Dashboard
 - Shwra
-- Additional business dashboards and data-driven applications.
+- HOA management and administration systems
 
-Some professional projects may be private or belong to employers and clients. Their source code and confidential information are not necessarily publicly available.
-
-> Project descriptions reflect the types of work performed. Add public repository links only where you have permission to share the source code.
+Some of these projects are private, client-owned, or accessible only through authenticated portals. I share public links only where the correct destination can be verified and disclosure is appropriate.
 
 ---
 
@@ -179,15 +120,15 @@ Some professional projects may be private or belong to employers and clients. Th
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhan-ibn-yousaf&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhan-ibn-yousaf&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-ibn-yousaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-ibn-yousaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Subhan-ibn-yousaf&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=Subhan-ibn-yousaf&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -197,7 +138,7 @@ Some professional projects may be private or belong to employers and clients. Th
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subhan-ibn-yousaf&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subhan-ibn-yousaf&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -207,22 +148,9 @@ Some professional projects may be private or belong to employers and clients. Th
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Subhan-ibn-yousaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub profile trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Subhan-ibn-yousaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-- Strengthening advanced React.js and Next.js patterns.
-- Writing maintainable, strictly typed TypeScript.
-- Improving frontend architecture and application performance.
-- Building reusable design systems and accessible UI components.
-- Deepening my understanding of TanStack Query and API state management.
-- Developing production-ready mobile applications with React Native and Expo.
-- Improving deployment workflows with Vercel, Netlify, and EAS.
-- Preparing for challenging Frontend Developer opportunities.
 
 ---
 
@@ -236,11 +164,11 @@ I'm interested in connecting with developers, collaborating on meaningful projec
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.subhanyousaf.com/">
+<a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/muhammad-subhan-44895b430/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
