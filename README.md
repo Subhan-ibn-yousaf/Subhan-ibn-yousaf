@@ -1,17 +1,25 @@
+<!-- ===================================================== -->
+<!--                    HERO SECTION                      -->
+<!-- ===================================================== -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071426,50:123C85,100:2563EB&height=220&section=header&text=Muhammad%20Subhan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20TypeScript&descSize=16&descAlignY=60&animation=fadeIn" alt="Muhammad Subhan - Frontend Developer"/>
 
 <br/>
 
+<!-- MODERN PROFILE BUTTONS -->
+
 <a href="https://github.com/Subhan-ibn-yousaf">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Profile"/>
 </a>
+&nbsp;
 <a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-subhan-44895b430/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -26,7 +34,7 @@
 
 ### Frontend Developer | React.js • Next.js • TypeScript • React Native
 
-I'm a Frontend Developer with 1+ year of professional experience building responsive web applications, dashboards, and data-driven interfaces.
+I'm a Frontend Developer with **1+ year of professional experience** building responsive web applications, dashboards, and data-driven interfaces.
 
 I specialize in modern frontend development, reusable UI components, API integration, and maintainable application architecture. I'm also expanding my expertise in React Native and Expo for cross-platform mobile development.
 
@@ -116,6 +124,7 @@ I specialize in modern frontend development, reusable UI components, API integra
 Enterprise dashboard development for community and property management workflows.
 
 **Key areas:**
+
 - Community and property management
 - Complaint and contract management
 - Voting and facility management
@@ -128,9 +137,17 @@ Enterprise dashboard development for community and property management workflows
 
 `React.js` `Next.js` `TypeScript` `MUI` `TanStack Query`
 
-🌐 **[Official Website](https://daarna.sa/en/home)**
+<br/>
 
-💻 **[Dashboard Portal](https://portal.daarna.sa/en/login)**
+<a href="https://daarna.sa/en/home">
+  <img src="https://img.shields.io/badge/Official%20Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daarna Official Website"/>
+</a>
+
+<br/><br/>
+
+<a href="https://portal.daarna.sa/en/login">
+  <img src="https://img.shields.io/badge/Dashboard-Open-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daarna Dashboard"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -140,6 +157,7 @@ Enterprise dashboard development for community and property management workflows
 Frontend development and dashboard improvements for property and facility management workflows.
 
 **Key areas:**
+
 - Responsive dashboard interfaces
 - Reusable UI components
 - API-driven features
@@ -150,10 +168,15 @@ Frontend development and dashboard improvements for property and facility manage
 
 `React.js` `Next.js` `TypeScript` `MUI` `REST APIs`
 
-🌐 **[Official Website](https://clearafm.com/en)**
+<br/>
+
+<a href="https://clearafm.com/en">
+  <img src="https://img.shields.io/badge/Official%20Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cleara Official Website"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -162,6 +185,7 @@ Frontend development and dashboard improvements for property and facility manage
 Mobile application development and Expo migration experience for the business application.
 
 **Key areas:**
+
 - React Native development
 - Expo configuration
 - Cross-platform workflows
@@ -172,7 +196,11 @@ Mobile application development and Expo migration experience for the business ap
 
 `React Native` `Expo` `TypeScript` `EAS`
 
-🌐 **[Daarna Website](https://daarna.sa/en/home)**
+<br/>
+
+<a href="https://daarna.sa/en/home">
+  <img src="https://img.shields.io/badge/Daarna-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daarna Website"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -182,6 +210,7 @@ Mobile application development and Expo migration experience for the business ap
 A modern company website focused on digital products, web development, mobile applications, and technology services.
 
 **Key areas:**
+
 - Responsive layouts
 - Reusable UI components
 - Next.js architecture
@@ -192,10 +221,15 @@ A modern company website focused on digital products, web development, mobile ap
 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
-🔗 **[Visit My Portfolio](https://subhan-ibn-yousaf-protfolio.netlify.app/)**
+<br/>
+
+<a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -204,6 +238,7 @@ A modern company website focused on digital products, web development, mobile ap
 An athletic performance and membership platform concept.
 
 **Key areas:**
+
 - Training program interfaces
 - Weekly training cycles
 - Membership plans
@@ -214,7 +249,11 @@ An athletic performance and membership platform concept.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Lucide`
 
-🔗 **[Visit My Portfolio](https://subhan-ibn-yousaf-protfolio.netlify.app/)**
+<br/>
+
+<a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -231,7 +270,11 @@ Frontend development and dashboard experience across additional projects.
 
 Some projects are private or client-owned, so their source code and direct demo URLs may not be publicly available.
 
-🔗 **[Connect on LinkedIn](https://www.linkedin.com/in/muhammad-subhan-44895b430/)**
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammad-subhan-44895b430/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
 </td>
 </tr>
@@ -244,11 +287,11 @@ Some projects are private or client-owned, so their source code and direct demo 
 <div align="center">
 
 <a href="https://github.com/Subhan-ibn-yousaf">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhan-ibn-yousaf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Subhan-ibn-yousaf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/Subhan-ibn-yousaf">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-ibn-yousaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-ibn-yousaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
 
 </div>
@@ -328,15 +371,15 @@ I'm interested in connecting with developers, collaborating on meaningful projec
 <div align="center">
 
 <a href="https://github.com/Subhan-ibn-yousaf">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Profile"/>
 </a>
-
+&nbsp;
 <a href="https://subhan-ibn-yousaf-protfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-subhan-44895b430/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <br/><br/>
